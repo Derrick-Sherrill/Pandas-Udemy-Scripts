@@ -3,10 +3,9 @@ Scripts used in Pandas Udemy Course
 
 
 ## Topics:
-### What is a dataframe?
+* What is a dataframe?
 
-### How to create Series
-#### Ways to Create Series
+## Ways to Create Series
 <ul>
   <li>Lists</li>
   <li>Dictionaries</li>
@@ -21,6 +20,7 @@ Scripts used in Pandas Udemy Course
 <ul>
   <li> Square bracket selection </li>
   <li> get() </li>
+ </ul>
 #### Series Methods
 <ul>
   <li>.sum(), .product(), .mean()</li>
